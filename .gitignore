@@ -160,11 +160,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/linux,macos,windows,phpstorm
-/.idea/$CACHE_FILE$
-/.idea/encodings.xml
-/.idea/.gitignore
-/.idea/learnGitByDoing.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/.idea/php.xml
+/.idea
+
